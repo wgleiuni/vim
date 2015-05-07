@@ -1,0 +1,10 @@
+a.out
+*~
+*.mat
+*.o
+*.fig
+*.tar
+*.gz
+*.dvi
+*.blg
+*.aux

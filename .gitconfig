@@ -1,0 +1,18 @@
+[user]
+	name = Guanglei Wang
+	email = wgleiuni@gmail.com
+[core]
+	autocrlf = input
+	safecrlf = true
+	excludesfile = /home/quantum/.gitignore
+[alias]
+	co = checkout
+	ci = commit
+	st = status
+	br = branch
+	hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+	type = cat-file -t
+	dump = cat-file -p
+[color]
+	status = auto
+	branch = auto
