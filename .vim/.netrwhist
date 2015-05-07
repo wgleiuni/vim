@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/quantum/Documents/private/Graphene2'
+let g:netrw_dirhist_2='/home/quantum/Documents/Project/Optomechanics/QSD/test/trans'
+let g:netrw_dirhist_3='/home/quantum/Documents/MATLAB/Disorder/Nov2/disorder/C/result/result26'
+let g:netrw_dirhist_4='/home/quantum/Documents/private/Graphene2'
+let g:netrw_dirhist_5='/home/quantum/Documents/private'
+let g:netrw_dirhist_6='/home/quantum/Documents/private/Graphene2'
+let g:netrw_dirhist_7='/home/quantum/.vim/bundle/latex-suite/ftplugin/latex-suite'
