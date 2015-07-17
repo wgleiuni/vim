@@ -52,7 +52,9 @@ call vundle#begin()
 Plugin 'gmarik/Vundle.vim'
 Plugin 'gerw/vim-latex-suite'
 Plugin 'WolfgangMehner/vim-plugins'
-
+Bundle 'klen/python-mode'
+Bundle 'git@github.com:davidhalter/jedi-vim.git'
+Bundle 'git@github.com:Konfekt/FastFold.git'
 call vundle#end()            " required
 filetype plugin indent on    " required
 
